@@ -1,0 +1,15 @@
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\bin\Debug\net7.0\HotelSystemCSharp.exe
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\bin\Debug\net7.0\HotelSystemCSharp.deps.json
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\bin\Debug\net7.0\HotelSystemCSharp.runtimeconfig.json
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\bin\Debug\net7.0\HotelSystemCSharp.dll
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\bin\Debug\net7.0\HotelSystemCSharp.pdb
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.csproj.AssemblyReference.cache
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.AssemblyInfoInputs.cache
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.AssemblyInfo.cs
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.dll
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\refint\HotelSystemCSharp.dll
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.pdb
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\HotelSystemCSharp.genruntimeconfig.cache
+C:\Users\10\Documents\ProjetosDev\ProjetosVsCode\Linguagens\CSharp\HotelSystemCSharp\obj\Debug\net7.0\ref\HotelSystemCSharp.dll
